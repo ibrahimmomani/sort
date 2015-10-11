@@ -1,0 +1,12 @@
+{
+  "name": "ibrahimmomani/sorting",
+  "description": "Sorting algorithms in php",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ibrahim Almomani",
+      "email": "ibrahimmomani@gmai.com"
+    }
+  ]
+}
