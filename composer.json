@@ -8,5 +8,16 @@
       "name": "Ibrahim Almomani",
       "email": "ibrahimmomani@gmai.com"
     }
-  ]
+  ],
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sort\\": "src/"
+    }
+  }
 }
