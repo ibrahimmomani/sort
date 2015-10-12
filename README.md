@@ -10,6 +10,8 @@ Sort algorithms in php with basic tests.
     * Quick Sort
     * Gnome Sort
     * Cocktail Sort
+    * Shell Sort
+    * Counting Sort
 
 ### Installation
 
