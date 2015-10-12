@@ -14,6 +14,7 @@ class SelectionSort
      * @param array $input
      * @return array
      */
+
     public function sort(array $input)
     {
         $items = count($input);
