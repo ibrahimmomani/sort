@@ -9,10 +9,13 @@ namespace Sort;
  */
 class QuickSort
 {
+
     /**
      * The quick sort function
-     * source: https://en.wikipedia.org/wiki/Quick_sort
+     * Source: https://en.wikipedia.org/wiki/Quicksort
      * @param array $input
+     * @param int $left
+     * @param int $right
      * @return array
      */
     public function sort(array &$input, $left = 0, $right = 0)
