@@ -1,10 +1,10 @@
 <?php
 
-namespace Sort;
+namespace Sorting;
 
 /**
  * Class SelectionSort
- * @package Sort
+ * @package Sorting
  */
 class SelectionSort
 {

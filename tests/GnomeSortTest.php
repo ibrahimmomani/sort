@@ -1,6 +1,6 @@
 <?php
 
-use Sort\GnomeSort;
+use Sorting\GnomeSort;
 
 class GnomeSortTest extends PHPUnit_Framework_TestCase
 {

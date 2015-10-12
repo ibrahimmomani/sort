@@ -1,11 +1,11 @@
 <?php
 
-namespace Sort;
+namespace Sorting;
 
 
 /**
  * Class GnomeSort
- * @package Sort
+ * @package Sorting
  */
 class GnomeSort
 {

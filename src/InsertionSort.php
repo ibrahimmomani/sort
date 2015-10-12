@@ -1,11 +1,11 @@
 <?php
 
-namespace Sort;
+namespace Sorting;
 
 
 /**
  * Class InsertionSort
- * @package Sort
+ * @package Sorting
  */
 class InsertionSort
 {

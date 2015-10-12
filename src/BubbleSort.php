@@ -1,10 +1,10 @@
 <?php
-namespace Sort;
+namespace Sorting;
 
 
 /**
  * Class BubbleSort
- * @package Sort
+ * @package Sorting
  */
 class BubbleSort
 {

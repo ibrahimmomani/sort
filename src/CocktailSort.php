@@ -1,11 +1,11 @@
 <?php
 
-namespace Sort;
+namespace Sorting;
 
 
 /**
  * Class CocktailSort
- * @package Sort
+ * @package Sorting
  */
 class CocktailSort
 {

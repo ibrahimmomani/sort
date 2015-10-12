@@ -1,6 +1,6 @@
 <?php
 
-use Sort\QuickSort;
+use Sorting\QuickSort;
 
 class QuickSortTest extends PHPUnit_Framework_TestCase
 {

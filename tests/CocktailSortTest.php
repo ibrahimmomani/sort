@@ -1,6 +1,6 @@
 <?php
 
-use Sort\CocktailSort;
+use Sorting\CocktailSort;
 
 class CocktailSortTest extends PHPUnit_Framework_TestCase
 {

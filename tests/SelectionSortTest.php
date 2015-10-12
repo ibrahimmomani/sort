@@ -1,6 +1,6 @@
 <?php
 
-use Sort\SelectionSort;
+use Sorting\SelectionSort;
 
 class SelectionSortTest extends PHPUnit_Framework_TestCase
 {

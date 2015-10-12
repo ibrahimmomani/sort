@@ -1,6 +1,6 @@
 <?php
 
-use Sort\InsertionSort;
+use Sorting\InsertionSort;
 
 class InsertionSortTest extends PHPUnit_Framework_TestCase
 {
