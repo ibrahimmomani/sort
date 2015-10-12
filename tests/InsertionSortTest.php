@@ -19,7 +19,7 @@ class InsertionSortTest extends PHPUnit_Framework_TestCase
     public function testInsertionSort()
     {
         $this->actualData = $this->insertionSortObject->sort($this->testData);
-        $this->assertEquals($this->actualData, $this->expectedData);
+        $this->assertEquals($this->expectedData, $this->actualData);
     }
 
 }
